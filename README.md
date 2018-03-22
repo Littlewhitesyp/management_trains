@@ -1,3 +1,3 @@
 # management_trains
 数据库课设-大三下
-first test on my first repository
+列车时刻查询（管理）模拟
